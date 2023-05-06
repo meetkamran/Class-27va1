@@ -1,0 +1,234 @@
+@media (max-width: 1900px) {
+    .blog-txt {
+        width: 55%;
+    }
+    .blog-notice {
+        width: 20%;
+        margin-top: -290px;
+    }
+}
+@media (max-width: 1700px) {
+
+    .blog-notice {
+        width: 20%;
+        margin-top: -270px;
+    }
+    .footer-right {
+        width: 60%;
+        margin-right: 0px;
+        text-align: end;
+    }
+    .footer-left{
+        width: 40%;
+    }
+}
+
+@media (max-width: 1500px) {
+    .header-left {
+        width: 20%;
+    }
+    .header-right {
+        width: 80%;
+    }
+    .banner {
+        padding: 250px 0px;
+        max-width: 100%;
+    }
+
+    .blog-txt {
+        float: left;
+        width: 80%;
+        margin-top: -35px;
+    }
+    .bt1{
+        margin-top: 30px;
+    }
+    .blog-img{
+        margin-top: 30px;
+    }
+    .blog-notice {
+        float: left;
+        width: 100%;
+        float: none;
+    }
+}
+
+@media (max-width: 1300px) {
+    .service-item {
+        box-sizing: border-box;
+        padding: 20px 30px;
+        height: 230px;
+    }
+    .service-item span {
+        font-size: 25px;
+}
+.service-item h1 {
+    margin-bottom: 20px;
+}
+}
+
+
+@media (max-width: 1200px) {
+    .banner-txt-1 {
+        padding: 10px 20px;
+        font-size: 20px;
+    }
+    .banner-txt-2 {
+        padding: 5px 15px;
+        font-size: 20px;
+        width: 500px;
+    }
+}
+@media (max-width: 1100px) {
+    .header-left {
+        width: 100%;
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .header-right {
+        width: 100%;
+    }
+    .header-right ul li{
+        border-left: none;
+    }
+    .header-left {
+        margin-top: 20px;
+        margin-bottom: -9px;
+    }   
+    .header-right {
+        text-align: center;
+    }
+    .blog-img {
+        float: none;
+        max-width: 100%;
+        margin: auto;
+        text-align: center;
+        margin-right: 0px;
+        padding-bottom: 0px;
+    }
+    .blog-txt {
+        float: none;
+        width: 100%;
+        margin-right: 0;
+        font-size: 20px;
+        padding-bottom: 50px;
+        color: #000000;
+        line-height: 30px;
+    }
+    .blog-notice {
+        float: none;
+        width: 100%;
+        margin-top: 0px;
+    }
+}
+@media (max-width: 950px) {
+    .service-item span {
+        font-size: 20px;
+        color: #fff;
+        padding: 7px 12px;
+        margin-bottom: 10px;
+    }
+    .service-item h1 {
+        margin-bottom: 5px;
+        font-size: 22px;
+    }
+    .service-item {
+        height: auto;
+    }
+}
+
+
+
+@media (max-width: 860px) {
+
+    .header-right {
+        text-align: center;
+        width: 100%;
+    }
+    .header-right ul li a {
+        padding: 5px 15px;
+        font-size: 20px;
+        line-height: 20px;
+    }
+    .header-right ul li{
+        border-left: none;
+    }
+}
+
+
+@media (max-width: 800px) {
+    .banner-txt-1 {
+        padding: 10px 20px;
+        font-size: 10px;
+    }
+    .banner-txt-2 {
+        padding: 5px 15px;
+        font-size: 10px;
+        width: 300px;
+    }
+    .about-txt {
+        width: 100%;
+    }
+    .service-item {
+        width: 100%;
+        margin-left: 0;
+        margin-bottom: 15px;
+    }
+    .footer-right {
+        float: none;
+        width: 100%;
+        margin-right: 0px;
+        text-align: end;
+        text-align: center;
+        padding-top: 10px;
+
+    }
+    .footer-left{
+        width: 100%;
+        float: none;
+        text-align: center;
+        padding-bottom: 10px;
+        border-bottom: 1px solid #fff;
+    }
+}
+
+
+
+
+@media (max-width: 650px) {
+
+    .header-right {
+        text-align: center;
+        width: 100%;
+    }
+    .header-right ul li a {
+        padding: 5px 10px;
+        font-size: 15px;
+        line-height: 15px;
+    }
+}
+
+@media (max-width: 500px) {
+    .header-left a img {
+        width: 120px;
+    }
+    .banner {
+        padding: 150px 0px;
+        max-width: 100%;
+    }
+    .header-right ul li a {
+        padding: 5px 5px;
+        font-size: 12px;
+    }
+    .banner-txt-2 {
+        padding: 5px 10px;
+        font-size: 7px;
+        width: 233px;
+    }
+}
+
+
+
+
+
